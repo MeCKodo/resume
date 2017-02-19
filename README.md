@@ -13,14 +13,14 @@
 
 ## 个人技能
 
-- 熟悉html5、css3、js、sass、less
-- 熟悉es2015，es2015+
-- 熟悉使用mvvm框架vue，了解react
-- 熟悉状态管理工具vuex，了解redux
-- 熟悉gulp、webpack自动化构建工具
+- 熟悉HTML5、CSS3、JavaScript、Sass、Less
+- 熟悉ES2015，ES2015+
+- 熟悉使用MVVM框架Vue，了解React
+- 熟悉状态管理工具Vuex，了解Redux
+- 熟悉Gulp、Webpack自动化构建工具
 - 熟悉微信开发、微信小程序
 - 熟悉使用markdown、mac OS
-- 了解node、express、thinkjs、Linux、nginx、mongodb
+- 了解Node、Express、Thinkjs、Linux、Nginx、MongoDB
 
 ## 个人项目
 
